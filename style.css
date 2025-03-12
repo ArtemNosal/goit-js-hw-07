@@ -1,5 +1,3 @@
-/* Стилі для загального вигляду */
-
 body {
   font-family: Arial, sans-serif;
   margin: 20px;
@@ -9,7 +7,6 @@ h2 {
   color: #333;
 }
 
-/* Завдання 2: Галерея */
 .gallery {
   display: flex;
   gap: 10px;
@@ -23,7 +20,6 @@ h2 {
   height: 20px;
 }
 
-/* Завдання 4: Стилі для форми */
 .login-form {
   display: flex;
   flex-direction: column;
